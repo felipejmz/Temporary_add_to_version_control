@@ -1,0 +1,13 @@
+---
+title: "Hello world"
+author: "Felipe"
+date: "5/20/2021"
+output: word_document
+---
+# **Mi primer R Markdown**
+## *Espero que funcione*
+
+```{r}
+print("Hello world")
+```
+
